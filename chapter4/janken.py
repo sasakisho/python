@@ -1,6 +1,6 @@
 import random
 
-str = {"","グー","チョキ","パー"}
+#str = {"","グー","チョキ","パー"}
 while True:
     com = random.randint(1,3)
     ply = int(input("グー:1、チョキ:2、パー:3 "))
